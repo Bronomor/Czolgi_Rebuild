@@ -1,0 +1,10 @@
+[
+    {
+        "Parameters": {
+            "MapWidth": "10",
+            "MapHeight": "10",
+			"BotCount": "5",
+			"ObstacleCount": "5"
+        }
+    }
+]
